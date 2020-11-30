@@ -1,6 +1,6 @@
 
-/node-modules
-/src
+node-modules/
+src/
 jest.config.js
 *.json
 
