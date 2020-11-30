@@ -1,8 +1,7 @@
-src/**/pow.test.js
-src/**/first-ui.test.js
+
 
 /node-modules
-/src
+
 jest.config.js
 *.json
 
