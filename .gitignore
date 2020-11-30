@@ -9,6 +9,11 @@
 !.vscode/extensions.json
 *.code-workspace
 
+/node-modules/
+/src/
+jest.config.js
+*.json
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
