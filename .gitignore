@@ -1,3 +1,5 @@
+src/**/pow.test.js
+src/**/first-ui.test.js
 
 node-modules/
 src/
