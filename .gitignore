@@ -1,8 +1,8 @@
 src/**/pow.test.js
 src/**/first-ui.test.js
 
-node-modules/
-src/
+/node-modules
+/src
 jest.config.js
 *.json
 
@@ -31,5 +31,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# End of https://www.toptal.com/developers/gitignore/api/vscode,windows
